@@ -1,0 +1,16 @@
+{
+  "name": "ads_encryption",
+  "version": "1.0.0",
+  "description": "simple encryption",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Jordan",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "crypto-js": "^4.1.1",
+    "google-distance-matrix": "^1.1.1"
+  }
+}
